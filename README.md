@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @Prathamkm
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning DBMS
-- 💞️ I’m looking to collaborate on Postman
